@@ -1,0 +1,344 @@
+Used,Type,Name,PV,Tag,Desc
+X,Bool,Fault_Exists,BL:$(xx)$(yy):FAULT_EXISTS,Fault_Exists,Any Fault Exists
+X,Bool,Communications_Fault,BL:$(xx)$(yy):COMMUNICATIONS_FAULT,Communications_Fault,1 Communications Fault
+X,Bool,Flow1_Over_Range,BL:$(xx)$(yy):FLOW1_OVER_RANGE,Flow1.Over_Range_Fault,11 Flow 1 Over Range Fault
+X,Bool,Flow2_Over_Range,BL:$(xx)$(yy):FLOW2_OVER_RANGE,Flow2.Over_Range_Fault,12 Flow 2 Over Range Fault
+X,Bool,Flow3_Over_Range,BL:$(xx)$(yy):FLOW3_OVER_RANGE,Flow3.Over_Range_Fault,13 Flow 3 Over Range Fault
+X,Bool,Flow4_Over_Range,BL:$(xx)$(yy):FLOW4_OVER_RANGE,Flow4.Over_Range_Fault,14 Flow 4 Over Range Fault
+X,Bool,Flow5_Over_Range,BL:$(xx)$(yy):FLOW5_OVER_RANGE,Flow5.Over_Range_Fault,15 Flow 5 Over Range Fault
+,Bool,Flow6_Over_Range,BL:$(xx)$(yy):FLOW6_OVER_RANGE,Flow6.Over_Range_Fault,16 Flow 6 Over Range Fault
+,Bool,Flow7_Over_Range,BL:$(xx)$(yy):FLOW7_OVER_RANGE,Flow7.Over_Range_Fault,17 Flow 7 Over Range Fault
+,Bool,Flow8_Over_Range,BL:$(xx)$(yy):FLOW8_OVER_RANGE,Flow8.Over_Range_Fault,18 Flow 8 Over Range Fault
+,Bool,Flow9_Over_Range,BL:$(xx)$(yy):FLOW9_OVER_RANGE,Flow9.Over_Range_Fault,19 Flow 9 Over Range Fault
+,Bool,Flow10_Over_Range,BL:$(xx)$(yy):FLOW10_OVER_RANGE,Flow10.Over_Range_Fault,20 Flow 10 Over Range Fault
+,Bool,Flow11_Over_Range,BL:$(xx)$(yy):FLOW11_OVER_RANGE,Flow11.Over_Range_Fault,21 Flow 11 Over Range Fault
+,Bool,Flow12_Over_Range,BL:$(xx)$(yy):FLOW12_OVER_RANGE,Flow12.Over_Range_Fault,22 Flow 12 Over Range Fault
+,Bool,Flow13_Over_Range,BL:$(xx)$(yy):FLOW13_OVER_RANGE,Flow13.Over_Range_Fault,23 Flow 13 Over Range Fault
+,Bool,Flow14_Over_Range,BL:$(xx)$(yy):FLOW14_OVER_RANGE,Flow14.Over_Range_Fault,24 Flow 14 Over Range Fault
+,Bool,Flow15_Over_Range,BL:$(xx)$(yy):FLOW15_OVER_RANGE,Flow15.Over_Range_Fault,25 Flow 15 Over Range Fault
+,Bool,Flow16_Over_Range,BL:$(xx)$(yy):FLOW16_OVER_RANGE,Flow16.Over_Range_Fault,26 Flow 16 Over Range Fault
+X,Bool,Temp1_Under_Range,BL:$(xx)$(yy):TEMP1_UNDER_RANGE,Temp1.Under_Range_Fault,51 Temp 1 Under Range Fault
+X,Bool,Temp2_Under_Range,BL:$(xx)$(yy):TEMP2_UNDER_RANGE,Temp2.Under_Range_Fault,52 Temp 2 Under Range Fault
+X,Bool,Temp3_Under_Range,BL:$(xx)$(yy):TEMP3_UNDER_RANGE,Temp3.Under_Range_Fault,53 Temp 3 Under Range Fault
+X,Bool,Temp4_Under_Range,BL:$(xx)$(yy):TEMP4_UNDER_RANGE,Temp4.Under_Range_Fault,54 Temp 4 Under Range Fault
+X,Bool,Temp5_Under_Range,BL:$(xx)$(yy):TEMP5_UNDER_RANGE,Temp5.Under_Range_Fault,55 Temp 5 Under Range Fault
+X,Bool,Temp6_Under_Range,BL:$(xx)$(yy):TEMP6_UNDER_RANGE,Temp6.Under_Range_Fault,56 Temp 6 Under Range Fault
+X,Bool,Temp7_Under_Range,BL:$(xx)$(yy):TEMP7_UNDER_RANGE,Temp7.Under_Range_Fault,57 Temp 7 Under Range Fault
+X,Bool,Temp8_Under_Range,BL:$(xx)$(yy):TEMP8_UNDER_RANGE,Temp8.Under_Range_Fault,58 Temp 8 Under Range Fault
+X,Bool,Temp9_Under_Range,BL:$(xx)$(yy):TEMP9_UNDER_RANGE,Temp9.Under_Range_Fault,59 Temp 9 Under Range Fault
+X,Bool,Temp10_Under_Range,BL:$(xx)$(yy):TEMP10_UNDER_RANGE,Temp10.Under_Range_Fault,60 Temp 10 Under Range Fault
+X,Bool,Temp11_Under_Range,BL:$(xx)$(yy):TEMP11_UNDER_RANGE,Temp11.Under_Range_Fault,61 Temp 11 Under Range Fault
+X,Bool,Temp12_Under_Range,BL:$(xx)$(yy):TEMP12_UNDER_RANGE,Temp12.Under_Range_Fault,62 Temp 12 Under Range Fault
+X,Bool,Temp13_Under_Range,BL:$(xx)$(yy):TEMP13_UNDER_RANGE,Temp13.Under_Range_Fault,63 Temp 12 Under Range Fault
+X,Bool,Temp14_Under_Range,BL:$(xx)$(yy):TEMP14_UNDER_RANGE,Temp14.Under_Range_Fault,64 Temp 12 Under Range Fault
+X,Bool,Temp15_Under_Range,BL:$(xx)$(yy):TEMP15_UNDER_RANGE,Temp15.Under_Range_Fault,65 Temp 12 Under Range Fault
+,Bool,Temp16_Under_Range,BL:$(xx)$(yy):TEMP16_UNDER_RANGE,Temp16.Under_Range_Fault,66 Temp 12 Under Range Fault
+,Bool,Temp17_Under_Range,BL:$(xx)$(yy):TEMP17_UNDER_RANGE,Temp17.Under_Range_Fault,67 Temp 12 Under Range Fault
+,Bool,Temp18_Under_Range,BL:$(xx)$(yy):TEMP18_UNDER_RANGE,Temp18.Under_Range_Fault,68 Temp 12 Under Range Fault
+X,Bool,BIV_Fail_to_Close,BL:$(xx)$(yy):BIV_FAIL_TO_CLOSE,BIV.Fail_to_Close,100 BIV Fail to Close
+X,Bool,FES_Fail_to_Close,BL:$(xx)$(yy):FES_FAIL_TO_CLOSE,FES.Fail_to_Close,101 FES Fail to Close
+X,Bool,SBS_Fail_to_Close,BL:$(xx)$(yy):SBS_FAIL_TO_CLOSE,SBS.Fail_to_Close,102 SBS Fail to Close
+,Bool,SCS_Fail_to_Close,BL:$(xx)$(yy):SCS_FAIL_TO_CLOSE,SCS.Fail_to_Close,103 SCS Fail to Close
+,Bool,SDS_Fail_to_Close,BL:$(xx)$(yy):SDS_FAIL_TO_CLOSE,SDS.Fail_to_Close,104 SDS Fail to Close
+,Bool,SES_Fail_to_Close,BL:$(xx)$(yy):SES_FAIL_TO_CLOSE,SES.Fail_to_Close,105 SES Fail to Close
+X,Bool,SAS_Fail_to_Close,BL:$(xx)$(yy):SAS_FAIL_TO_CLOSE,SAS.Fail_to_Close,106 SAS Fail to Close
+,Bool,GV1_Faulted,BL:$(xx)$(yy):GV1_FAULTED,GV1.Faulted,GV1_Faulted
+,Bool,GV1_Both_Switch,BL:$(xx)$(yy):GV1_BOTH_SWITCH,GV1.Fault.Both_Switch,1011 GV1 Both Switch
+,Bool,GV1_Opened_Switch,BL:$(xx)$(yy):GV1_OPENED_SWITCH,GV1.Fault.Opened_Switch,1012 GV1 Opened Switch
+,Bool,GV1_Fail_to_Open,BL:$(xx)$(yy):GV1_FAIL_TO_OPEN,GV1.Fault.Fail_to_Open,1013 GV1 Fail to Open
+,Bool,GV1_Fully_Open,BL:$(xx)$(yy):GV1_FULLY_OPEN,GV1.Fault.Fully_Open,1014 GV1 Fail To Fully Open
+,Bool,GV1_Closed_Switch,BL:$(xx)$(yy):GV1_CLOSED_SWITCH,GV1.Fault.Closed_Switch,1015 GV1 Closed Switch
+,Bool,GV1_Fail_to_Close,BL:$(xx)$(yy):GV1_FAIL_TO_CLOSE,GV1.Fault.Fail_to_Close,1016 GV1 Fail to Close
+,Bool,GV1_Fully_Close,BL:$(xx)$(yy):GV1_FULLY_CLOSE,GV1.Fault.Fully_Close,1017 GV1 Fail To Fully Close
+,Bool,GV1_Beam_Exposure,BL:$(xx)$(yy):GV1_BEAM_EXPOSURE,GV1.Fault.Beam_Exposure,1018 GV1 Beam Exposure
+,Bool,GV1_No_Switch,BL:$(xx)$(yy):GV1_NO_SWITCH,GV1.Fault.No_Switch,1019 GV1 No Switch
+X,Bool,GV2_Faulted,BL:$(xx)$(yy):GV2_FAULTED,GV2.Faulted,GV2_Faulted
+X,Bool,GV2_Both_Switch,BL:$(xx)$(yy):GV2_BOTH_SWITCH,GV2.Fault.Both_Switch,1021 GV2 Both Switch
+X,Bool,GV2_Opened_Switch,BL:$(xx)$(yy):GV2_OPENED_SWITCH,GV2.Fault.Opened_Switch,1022 GV2 Opened Switch
+X,Bool,GV2_Fail_to_Open,BL:$(xx)$(yy):GV2_FAIL_TO_OPEN,GV2.Fault.Fail_to_Open,1023 GV2 Fail to Open
+X,Bool,GV2_Fully_Open,BL:$(xx)$(yy):GV2_FULLY_OPEN,GV2.Fault.Fully_Open,1024 GV2 Fail To Fully Open
+X,Bool,GV2_Closed_Switch,BL:$(xx)$(yy):GV2_CLOSED_SWITCH,GV2.Fault.Closed_Switch,1025 GV2 Closed Switch
+X,Bool,GV2_Fail_to_Close,BL:$(xx)$(yy):GV2_FAIL_TO_CLOSE,GV2.Fault.Fail_to_Close,1026 GV2 Fail to Close
+X,Bool,GV2_Fully_Close,BL:$(xx)$(yy):GV2_FULLY_CLOSE,GV2.Fault.Fully_Close,1027 GV2 Fail To Fully Close
+X,Bool,GV2_Beam_Exposure,BL:$(xx)$(yy):GV2_BEAM_EXPOSURE,GV2.Fault.Beam_Exposure,1028 GV2 Beam Exposure
+X,Bool,GV2_No_Switch,BL:$(xx)$(yy):GV2_NO_SWITCH,GV2.Fault.No_Switch,1029 GV2 No Switch
+X,Bool,GV3_Faulted,BL:$(xx)$(yy):GV3_FAULTED,GV3.Faulted,GV3_Faulted
+X,Bool,GV3_Both_Switch,BL:$(xx)$(yy):GV3_BOTH_SWITCH,GV3.Fault.Both_Switch,1031 GV3 Both Switch
+X,Bool,GV3_Opened_Switch,BL:$(xx)$(yy):GV3_OPENED_SWITCH,GV3.Fault.Opened_Switch,1032 GV3 Opened Switch
+X,Bool,GV3_Fail_to_Open,BL:$(xx)$(yy):GV3_FAIL_TO_OPEN,GV3.Fault.Fail_to_Open,1033 GV3 Fail to Open
+X,Bool,GV3_Fully_Open,BL:$(xx)$(yy):GV3_FULLY_OPEN,GV3.Fault.Fully_Open,1034 GV3 Fail To Fully Open
+X,Bool,GV3_Closed_Switch,BL:$(xx)$(yy):GV3_CLOSED_SWITCH,GV3.Fault.Closed_Switch,1035 GV3 Closed Switch
+X,Bool,GV3_Fail_to_Close,BL:$(xx)$(yy):GV3_FAIL_TO_CLOSE,GV3.Fault.Fail_to_Close,1036 GV3 Fail to Close
+X,Bool,GV3_Fully_Close,BL:$(xx)$(yy):GV3_FULLY_CLOSE,GV3.Fault.Fully_Close,1037 GV3 Fail To Fully Close
+X,Bool,GV3_Beam_Exposure,BL:$(xx)$(yy):GV3_BEAM_EXPOSURE,GV3.Fault.Beam_Exposure,1038 GV3 Beam Exposure
+X,Bool,GV3_No_Switch,BL:$(xx)$(yy):GV3_NO_SWITCH,GV3.Fault.No_Switch,1039 GV3 No Switch
+,Bool,GV4_Faulted,BL:$(xx)$(yy):GV4_FAULTED,GV4.Faulted,GV4_Faulted
+,Bool,GV4_Both_Switch,BL:$(xx)$(yy):GV4_BOTH_SWITCH,GV4.Fault.Both_Switch,1041 GV4 Both Switch
+,Bool,GV4_Opened_Switch,BL:$(xx)$(yy):GV4_OPENED_SWITCH,GV4.Fault.Opened_Switch,1042 GV4 Opened Switch
+,Bool,GV4_Fail_to_Open,BL:$(xx)$(yy):GV4_FAIL_TO_OPEN,GV4.Fault.Fail_to_Open,1043 GV4 Fail to Open
+,Bool,GV4_Fully_Open,BL:$(xx)$(yy):GV4_FULLY_OPEN,GV4.Fault.Fully_Open,1044 GV4 Fail To Fully Open
+,Bool,GV4_Closed_Switch,BL:$(xx)$(yy):GV4_CLOSED_SWITCH,GV4.Fault.Closed_Switch,1045 GV4 Closed Switch
+,Bool,GV4_Fail_to_Close,BL:$(xx)$(yy):GV4_FAIL_TO_CLOSE,GV4.Fault.Fail_to_Close,1046 GV4 Fail to Close
+,Bool,GV4_Fully_Close,BL:$(xx)$(yy):GV4_FULLY_CLOSE,GV4.Fault.Fully_Close,1047 GV4 Fail To Fully Close
+,Bool,GV4_Beam_Exposure,BL:$(xx)$(yy):GV4_BEAM_EXPOSURE,GV4.Fault.Beam_Exposure,1048 GV4 Beam Exposure
+,Bool,GV4_No_Switch,BL:$(xx)$(yy):GV4_NO_SWITCH,GV4.Fault.No_Switch,1049 GV4 No Switch
+X,Bool,GV5_Faulted,BL:$(xx)$(yy):GV5_FAULTED,GV5.Faulted,GV5_Faulted
+X,Bool,GV5_Both_Switch,BL:$(xx)$(yy):GV5_BOTH_SWITCH,GV5.Fault.Both_Switch,1051 GV5 Both Switch
+X,Bool,GV5_Opened_Switch,BL:$(xx)$(yy):GV5_OPENED_SWITCH,GV5.Fault.Opened_Switch,1052 GV5 Opened Switch
+X,Bool,GV5_Fail_to_Open,BL:$(xx)$(yy):GV5_FAIL_TO_OPEN,GV5.Fault.Fail_to_Open,1053 GV5 Fail to Open
+X,Bool,GV5_Fully_Open,BL:$(xx)$(yy):GV5_FULLY_OPEN,GV5.Fault.Fully_Open,1054 GV5 Fail To Fully Open
+X,Bool,GV5_Closed_Switch,BL:$(xx)$(yy):GV5_CLOSED_SWITCH,GV5.Fault.Closed_Switch,1055 GV5 Closed Switch
+X,Bool,GV5_Fail_to_Close,BL:$(xx)$(yy):GV5_FAIL_TO_CLOSE,GV5.Fault.Fail_to_Close,1056 GV5 Fail to Close
+X,Bool,GV5_Fully_Close,BL:$(xx)$(yy):GV5_FULLY_CLOSE,GV5.Fault.Fully_Close,1057 GV5 Fail To Fully Close
+X,Bool,GV5_Beam_Exposure,BL:$(xx)$(yy):GV5_BEAM_EXPOSURE,GV5.Fault.Beam_Exposure,1058 GV5 Beam Exposure
+X,Bool,GV5_No_Switch,BL:$(xx)$(yy):GV5_NO_SWITCH,GV5.Fault.No_Switch,1059 GV5 No Switch
+,Bool,GV6_Faulted,BL:$(xx)$(yy):GV6_FAULTED,GV6.Faulted,GV6_Faulted
+,Bool,GV6_Both_Switch,BL:$(xx)$(yy):GV6_BOTH_SWITCH,GV6.Fault.Both_Switch,1061 GV6 Both Switch
+,Bool,GV6_Opened_Switch,BL:$(xx)$(yy):GV6_OPENED_SWITCH,GV6.Fault.Opened_Switch,1062 GV6 Opened Switch
+,Bool,GV6_Fail_to_Open,BL:$(xx)$(yy):GV6_FAIL_TO_OPEN,GV6.Fault.Fail_to_Open,1063 GV6 Fail to Open
+,Bool,GV6_Fully_Open,BL:$(xx)$(yy):GV6_FULLY_OPEN,GV6.Fault.Fully_Open,1064 GV6 Fail To Fully Open
+,Bool,GV6_Closed_Switch,BL:$(xx)$(yy):GV6_CLOSED_SWITCH,GV6.Fault.Closed_Switch,1065 GV6 Closed Switch
+,Bool,GV6_Fail_to_Close,BL:$(xx)$(yy):GV6_FAIL_TO_CLOSE,GV6.Fault.Fail_to_Close,1066 GV6 Fail to Close
+,Bool,GV6_Fully_Close,BL:$(xx)$(yy):GV6_FULLY_CLOSE,GV6.Fault.Fully_Close,1067 GV6 Fail To Fully Close
+,Bool,GV6_Beam_Exposure,BL:$(xx)$(yy):GV6_BEAM_EXPOSURE,GV6.Fault.Beam_Exposure,1068 GV6 Beam Exposure
+,Bool,GV6_No_Switch,BL:$(xx)$(yy):GV6_NO_SWITCH,GV6.Fault.No_Switch,1069 GV6 No Switch
+,Bool,GV7_Faulted,BL:$(xx)$(yy):GV7_FAULTED,GV7.Faulted,GV7_Faulted
+,Bool,GV7_Both_Switch,BL:$(xx)$(yy):GV7_BOTH_SWITCH,GV7.Fault.Both_Switch,1071 GV7 Both Switch
+,Bool,GV7_Opened_Switch,BL:$(xx)$(yy):GV7_OPENED_SWITCH,GV7.Fault.Opened_Switch,1072 GV7 Opened Switch
+,Bool,GV7_Fail_to_Open,BL:$(xx)$(yy):GV7_FAIL_TO_OPEN,GV7.Fault.Fail_to_Open,1073 GV7 Fail to Open
+,Bool,GV7_Fully_Open,BL:$(xx)$(yy):GV7_FULLY_OPEN,GV7.Fault.Fully_Open,1074 GV7 Fail To Fully Open
+,Bool,GV7_Closed_Switch,BL:$(xx)$(yy):GV7_CLOSED_SWITCH,GV7.Fault.Closed_Switch,1075 GV7 Closed Switch
+,Bool,GV7_Fail_to_Close,BL:$(xx)$(yy):GV7_FAIL_TO_CLOSE,GV7.Fault.Fail_to_Close,1076 GV7 Fail to Close
+,Bool,GV7_Fully_Close,BL:$(xx)$(yy):GV7_FULLY_CLOSE,GV7.Fault.Fully_Close,1077 GV7 Fail To Fully Close
+,Bool,GV7_Beam_Exposure,BL:$(xx)$(yy):GV7_BEAM_EXPOSURE,GV7.Fault.Beam_Exposure,1078 GV7 Beam Exposure
+,Bool,GV7_No_Switch,BL:$(xx)$(yy):GV7_NO_SWITCH,GV7.Fault.No_Switch,1079 GV7 No Switch
+,Bool,GV8_Faulted,BL:$(xx)$(yy):GV8_FAULTED,GV8.Faulted,GV8_Faulted
+,Bool,GV8_Both_Switch,BL:$(xx)$(yy):GV8_BOTH_SWITCH,GV8.Fault.Both_Switch,1081 GV8 Both Switch
+,Bool,GV8_Opened_Switch,BL:$(xx)$(yy):GV8_OPENED_SWITCH,GV8.Fault.Opened_Switch,1082 GV8 Opened Switch
+,Bool,GV8_Fail_to_Open,BL:$(xx)$(yy):GV8_FAIL_TO_OPEN,GV8.Fault.Fail_to_Open,1083 GV8 Fail to Open
+,Bool,GV8_Fully_Open,BL:$(xx)$(yy):GV8_FULLY_OPEN,GV8.Fault.Fully_Open,1084 GV8 Fail To Fully Open
+,Bool,GV8_Closed_Switch,BL:$(xx)$(yy):GV8_CLOSED_SWITCH,GV8.Fault.Closed_Switch,1085 GV8 Closed Switch
+,Bool,GV8_Fail_to_Close,BL:$(xx)$(yy):GV8_FAIL_TO_CLOSE,GV8.Fault.Fail_to_Close,1086 GV8 Fail to Close
+,Bool,GV8_Fully_Close,BL:$(xx)$(yy):GV8_FULLY_CLOSE,GV8.Fault.Fully_Close,1087 GV8 Fail To Fully Close
+,Bool,GV8_Beam_Exposure,BL:$(xx)$(yy):GV8_BEAM_EXPOSURE,GV8.Fault.Beam_Exposure,1088 GV8 Beam Exposure
+,Bool,GV8_No_Switch,BL:$(xx)$(yy):GV8_NO_SWITCH,GV8.Fault.No_Switch,1089 GV8 No Switch
+,Bool,GV9_Faulted,BL:$(xx)$(yy):GV9_FAULTED,GV9.Faulted,GV9_Faulted
+,Bool,GV9_Both_Switch,BL:$(xx)$(yy):GV9_BOTH_SWITCH,GV9.Fault.Both_Switch,1091 GV9 Both Switch
+,Bool,GV9_Opened_Switch,BL:$(xx)$(yy):GV9_OPENED_SWITCH,GV9.Fault.Opened_Switch,1092 GV9 Opened Switch
+,Bool,GV9_Fail_to_Open,BL:$(xx)$(yy):GV9_FAIL_TO_OPEN,GV9.Fault.Fail_to_Open,1093 GV9 Fail to Open
+,Bool,GV9_Fully_Open,BL:$(xx)$(yy):GV9_FULLY_OPEN,GV9.Fault.Fully_Open,1094 GV9 Fail To Fully Open
+,Bool,GV9_Closed_Switch,BL:$(xx)$(yy):GV9_CLOSED_SWITCH,GV9.Fault.Closed_Switch,1095 GV9 Closed Switch
+,Bool,GV9_Fail_to_Close,BL:$(xx)$(yy):GV9_FAIL_TO_CLOSE,GV9.Fault.Fail_to_Close,1096 GV9 Fail to Close
+,Bool,GV9_Fully_Close,BL:$(xx)$(yy):GV9_FULLY_CLOSE,GV9.Fault.Fully_Close,1097 GV9 Fail To Fully Close
+,Bool,GV9_Beam_Exposure,BL:$(xx)$(yy):GV9_BEAM_EXPOSURE,GV9.Fault.Beam_Exposure,1098 GV9 Beam Exposure
+,Bool,GV9_No_Switch,BL:$(xx)$(yy):GV9_NO_SWITCH,GV9.Fault.No_Switch,1099 GV9 No Switch
+,Bool,GV10_Faulted,BL:$(xx)$(yy):GV10_FAULTED,GV10.Faulted,GV10_Faulted
+,Bool,GV10_Both_Switch,BL:$(xx)$(yy):GV10_BOTH_SWITCH,GV10.Fault.Both_Switch,1101 GV10 Both Switch
+,Bool,GV10_Opened_Switch,BL:$(xx)$(yy):GV10_OPENED_SWITCH,GV10.Fault.Opened_Switch,1102 GV10 Opened Switch
+,Bool,GV10_Fail_to_Open,BL:$(xx)$(yy):GV10_FAIL_TO_OPEN,GV10.Fault.Fail_to_Open,1103 GV10 Fail to Open
+,Bool,GV10_Fully_Open,BL:$(xx)$(yy):GV10_FULLY_OPEN,GV10.Fault.Fully_Open,1104 GV10 Fail To Fully Open
+,Bool,GV10_Closed_Switch,BL:$(xx)$(yy):GV10_CLOSED_SWITCH,GV10.Fault.Closed_Switch,1105 GV10 Closed Switch
+,Bool,GV10_Fail_to_Close,BL:$(xx)$(yy):GV10_FAIL_TO_CLOSE,GV10.Fault.Fail_to_Close,1106 GV10 Fail to Close
+,Bool,GV10_Fully_Close,BL:$(xx)$(yy):GV10_FULLY_CLOSE,GV10.Fault.Fully_Close,1107 GV10 Fail To Fully Close
+,Bool,GV10_Beam_Exposure,BL:$(xx)$(yy):GV10_BEAM_EXPOSURE,GV10.Fault.Beam_Exposure,1108 GV10 Beam Exposure
+,Bool,GV10_No_Switch,BL:$(xx)$(yy):GV10_NO_SWITCH,GV10.Fault.No_Switch,1109 GV10 No Switch
+,Bool,GV11_Faulted,BL:$(xx)$(yy):GV11_FAULTED,GV11.Faulted,GV11_Faulted
+,Bool,GV11_Both_Switch,BL:$(xx)$(yy):GV11_BOTH_SWITCH,GV11.Fault.Both_Switch,1111 GV11 Both Switch
+,Bool,GV11_Opened_Switch,BL:$(xx)$(yy):GV11_OPENED_SWITCH,GV11.Fault.Opened_Switch,1112 GV11 Opened Switch
+,Bool,GV11_Fail_to_Open,BL:$(xx)$(yy):GV11_FAIL_TO_OPEN,GV11.Fault.Fail_to_Open,1113 GV11 Fail to Open
+,Bool,GV11_Fully_Open,BL:$(xx)$(yy):GV11_FULLY_OPEN,GV11.Fault.Fully_Open,1114 GV11 Fail To Fully Open
+,Bool,GV11_Closed_Switch,BL:$(xx)$(yy):GV11_CLOSED_SWITCH,GV11.Fault.Closed_Switch,1115 GV11 Closed Switch
+,Bool,GV11_Fail_to_Close,BL:$(xx)$(yy):GV11_FAIL_TO_CLOSE,GV11.Fault.Fail_to_Close,1116 GV11 Fail to Close
+,Bool,GV11_Fully_Close,BL:$(xx)$(yy):GV11_FULLY_CLOSE,GV11.Fault.Fully_Close,1117 GV11 Fail To Fully Close
+,Bool,GV11_Beam_Exposure,BL:$(xx)$(yy):GV11_BEAM_EXPOSURE,GV11.Fault.Beam_Exposure,1118 GV11 Beam Exposure
+,Bool,GV11_No_Switch,BL:$(xx)$(yy):GV11_NO_SWITCH,GV11.Fault.No_Switch,1119 GV11 No Switch
+,Bool,GV12_Faulted,BL:$(xx)$(yy):GV12_FAULTED,GV12.Faulted,GV12_Faulted
+,Bool,GV12_Both_Switch,BL:$(xx)$(yy):GV12_BOTH_SWITCH,GV12.Fault.Both_Switch,1121 GV12 Both Switch
+,Bool,GV12_Opened_Switch,BL:$(xx)$(yy):GV12_OPENED_SWITCH,GV12.Fault.Opened_Switch,1122 GV12 Opened Switch
+,Bool,GV12_Fail_to_Open,BL:$(xx)$(yy):GV12_FAIL_TO_OPEN,GV12.Fault.Fail_to_Open,1123 GV12 Fail to Open
+,Bool,GV12_Fully_Open,BL:$(xx)$(yy):GV12_FULLY_OPEN,GV12.Fault.Fully_Open,1124 GV12 Fail To Fully Open
+,Bool,GV12_Closed_Switch,BL:$(xx)$(yy):GV12_CLOSED_SWITCH,GV12.Fault.Closed_Switch,1125 GV12 Closed Switch
+,Bool,GV12_Fail_to_Close,BL:$(xx)$(yy):GV12_FAIL_TO_CLOSE,GV12.Fault.Fail_to_Close,1126 GV12 Fail to Close
+,Bool,GV12_Fully_Close,BL:$(xx)$(yy):GV12_FULLY_CLOSE,GV12.Fault.Fully_Close,1127 GV12 Fail To Fully Close
+,Bool,GV12_Beam_Exposure,BL:$(xx)$(yy):GV12_BEAM_EXPOSURE,GV12.Fault.Beam_Exposure,1128 GV12 Beam Exposure
+,Bool,GV12_No_Switch,BL:$(xx)$(yy):GV12_NO_SWITCH,GV12.Fault.No_Switch,1129 GV12 No Switch
+,Bool,GV13_Faulted,BL:$(xx)$(yy):GV13_FAULTED,GV13.Faulted,GV13_Faulted
+,Bool,GV13_Both_Switch,BL:$(xx)$(yy):GV13_BOTH_SWITCH,GV13.Fault.Both_Switch,1131 GV13 Both Switch
+,Bool,GV13_Opened_Switch,BL:$(xx)$(yy):GV13_OPENED_SWITCH,GV13.Fault.Opened_Switch,1132 GV13 Opened Switch
+,Bool,GV13_Fail_to_Open,BL:$(xx)$(yy):GV13_FAIL_TO_OPEN,GV13.Fault.Fail_to_Open,1133 GV13 Fail to Open
+,Bool,GV13_Fully_Open,BL:$(xx)$(yy):GV13_FULLY_OPEN,GV13.Fault.Fully_Open,1134 GV13 Fail To Fully Open
+,Bool,GV13_Closed_Switch,BL:$(xx)$(yy):GV13_CLOSED_SWITCH,GV13.Fault.Closed_Switch,1135 GV13 Closed Switch
+,Bool,GV13_Fail_to_Close,BL:$(xx)$(yy):GV13_FAIL_TO_CLOSE,GV13.Fault.Fail_to_Close,1136 GV13 Fail to Close
+,Bool,GV13_Fully_Close,BL:$(xx)$(yy):GV13_FULLY_CLOSE,GV13.Fault.Fully_Close,1137 GV13 Fail To Fully Close
+,Bool,GV13_Beam_Exposure,BL:$(xx)$(yy):GV13_BEAM_EXPOSURE,GV13.Fault.Beam_Exposure,1138 GV13 Beam Exposure
+,Bool,GV13_No_Switch,BL:$(xx)$(yy):GV13_NO_SWITCH,GV13.Fault.No_Switch,1139 GV13 No Switch
+,Bool,GV14_Faulted,BL:$(xx)$(yy):GV14_FAULTED,GV14.Faulted,GV14_Faulted
+,Bool,GV14_Both_Switch,BL:$(xx)$(yy):GV14_BOTH_SWITCH,GV14.Fault.Both_Switch,1141 GV14 Both Switch
+,Bool,GV14_Opened_Switch,BL:$(xx)$(yy):GV14_OPENED_SWITCH,GV14.Fault.Opened_Switch,1142 GV14 Opened Switch
+,Bool,GV14_Fail_to_Open,BL:$(xx)$(yy):GV14_FAIL_TO_OPEN,GV14.Fault.Fail_to_Open,1143 GV14 Fail to Open
+,Bool,GV14_Fully_Open,BL:$(xx)$(yy):GV14_FULLY_OPEN,GV14.Fault.Fully_Open,1144 GV14 Fail To Fully Open
+,Bool,GV14_Closed_Switch,BL:$(xx)$(yy):GV14_CLOSED_SWITCH,GV14.Fault.Closed_Switch,1145 GV14 Closed Switch
+,Bool,GV14_Fail_to_Close,BL:$(xx)$(yy):GV14_FAIL_TO_CLOSE,GV14.Fault.Fail_to_Close,1146 GV14 Fail to Close
+,Bool,GV14_Fully_Close,BL:$(xx)$(yy):GV14_FULLY_CLOSE,GV14.Fault.Fully_Close,1147 GV14 Fail To Fully Close
+,Bool,GV14_Beam_Exposure,BL:$(xx)$(yy):GV14_BEAM_EXPOSURE,GV14.Fault.Beam_Exposure,1148 GV14 Beam Exposure
+,Bool,GV14_No_Switch,BL:$(xx)$(yy):GV14_NO_SWITCH,GV14.Fault.No_Switch,1149 GV14 No Switch
+,Bool,GV15_Faulted,BL:$(xx)$(yy):GV15_FAULTED,GV15.Faulted,GV15_Faulted
+,Bool,GV15_Both_Switch,BL:$(xx)$(yy):GV15_BOTH_SWITCH,GV15.Fault.Both_Switch,1151 GV15 Both Switch
+,Bool,GV15_Opened_Switch,BL:$(xx)$(yy):GV15_OPENED_SWITCH,GV15.Fault.Opened_Switch,1152 GV15 Opened Switch
+,Bool,GV15_Fail_to_Open,BL:$(xx)$(yy):GV15_FAIL_TO_OPEN,GV15.Fault.Fail_to_Open,1153 GV15 Fail to Open
+,Bool,GV15_Fully_Open,BL:$(xx)$(yy):GV15_FULLY_OPEN,GV15.Fault.Fully_Open,1154 GV15 Fail To Fully Open
+,Bool,GV15_Closed_Switch,BL:$(xx)$(yy):GV15_CLOSED_SWITCH,GV15.Fault.Closed_Switch,1155 GV15 Closed Switch
+,Bool,GV15_Fail_to_Close,BL:$(xx)$(yy):GV15_FAIL_TO_CLOSE,GV15.Fault.Fail_to_Close,1156 GV15 Fail to Close
+,Bool,GV15_Fully_Close,BL:$(xx)$(yy):GV15_FULLY_CLOSE,GV15.Fault.Fully_Close,1157 GV15 Fail To Fully Close
+,Bool,GV15_Beam_Exposure,BL:$(xx)$(yy):GV15_BEAM_EXPOSURE,GV15.Fault.Beam_Exposure,1158 GV15 Beam Exposure
+,Bool,GV15_No_Switch,BL:$(xx)$(yy):GV15_NO_SWITCH,GV15.Fault.No_Switch,1159 GV15 No Switch
+,Bool,GV16_Faulted,BL:$(xx)$(yy):GV16_FAULTED,GV16.Faulted,GV16_Faulted
+,Bool,GV16_Both_Switch,BL:$(xx)$(yy):GV16_BOTH_SWITCH,GV16.Fault.Both_Switch,1161 GV16 Both Switch
+,Bool,GV16_Opened_Switch,BL:$(xx)$(yy):GV16_OPENED_SWITCH,GV16.Fault.Opened_Switch,1162 GV16 Opened Switch
+,Bool,GV16_Fail_to_Open,BL:$(xx)$(yy):GV16_FAIL_TO_OPEN,GV16.Fault.Fail_to_Open,1163 GV16 Fail to Open
+,Bool,GV16_Fully_Open,BL:$(xx)$(yy):GV16_FULLY_OPEN,GV16.Fault.Fully_Open,1164 GV16 Fail To Fully Open
+,Bool,GV16_Closed_Switch,BL:$(xx)$(yy):GV16_CLOSED_SWITCH,GV16.Fault.Closed_Switch,1165 GV16 Closed Switch
+,Bool,GV16_Fail_to_Close,BL:$(xx)$(yy):GV16_FAIL_TO_CLOSE,GV16.Fault.Fail_to_Close,1166 GV16 Fail to Close
+,Bool,GV16_Fully_Close,BL:$(xx)$(yy):GV16_FULLY_CLOSE,GV16.Fault.Fully_Close,1167 GV16 Fail To Fully Close
+,Bool,GV16_Beam_Exposure,BL:$(xx)$(yy):GV16_BEAM_EXPOSURE,GV16.Fault.Beam_Exposure,1168 GV16 Beam Exposure
+,Bool,GV16_No_Switch,BL:$(xx)$(yy):GV16_NO_SWITCH,GV16.Fault.No_Switch,1169 GV16 No Switch
+,Bool,GV17_Faulted,BL:$(xx)$(yy):GV17_FAULTED,GV17.Faulted,GV17_Faulted
+,Bool,GV17_Both_Switch,BL:$(xx)$(yy):GV17_BOTH_SWITCH,GV17.Fault.Both_Switch,1171 GV17 Both Switch
+,Bool,GV17_Opened_Switch,BL:$(xx)$(yy):GV17_OPENED_SWITCH,GV17.Fault.Opened_Switch,1172 GV17 Opened Switch
+,Bool,GV17_Fail_to_Open,BL:$(xx)$(yy):GV17_FAIL_TO_OPEN,GV17.Fault.Fail_to_Open,1173 GV17 Fail to Open
+,Bool,GV17_Fully_Open,BL:$(xx)$(yy):GV17_FULLY_OPEN,GV17.Fault.Fully_Open,1174 GV17 Fail To Fully Open
+,Bool,GV17_Closed_Switch,BL:$(xx)$(yy):GV17_CLOSED_SWITCH,GV17.Fault.Closed_Switch,1175 GV17 Closed Switch
+,Bool,GV17_Fail_to_Close,BL:$(xx)$(yy):GV17_FAIL_TO_CLOSE,GV17.Fault.Fail_to_Close,1176 GV17 Fail to Close
+,Bool,GV17_Fully_Close,BL:$(xx)$(yy):GV17_FULLY_CLOSE,GV17.Fault.Fully_Close,1177 GV17 Fail To Fully Close
+,Bool,GV17_Beam_Exposure,BL:$(xx)$(yy):GV17_BEAM_EXPOSURE,GV17.Fault.Beam_Exposure,1178 GV17 Beam Exposure
+,Bool,GV17_No_Switch,BL:$(xx)$(yy):GV17_NO_SWITCH,GV17.Fault.No_Switch,1179 GV17 No Switch
+,Bool,GV18_Faulted,BL:$(xx)$(yy):GV18_FAULTED,GV18.Faulted,GV18_Faulted
+,Bool,GV18_Both_Switch,BL:$(xx)$(yy):GV18_BOTH_SWITCH,GV18.Fault.Both_Switch,1181 GV18 Both Switch
+,Bool,GV18_Opened_Switch,BL:$(xx)$(yy):GV18_OPENED_SWITCH,GV18.Fault.Opened_Switch,1182 GV18 Opened Switch
+,Bool,GV18_Fail_to_Open,BL:$(xx)$(yy):GV18_FAIL_TO_OPEN,GV18.Fault.Fail_to_Open,1183 GV18 Fail to Open
+,Bool,GV18_Fully_Open,BL:$(xx)$(yy):GV18_FULLY_OPEN,GV18.Fault.Fully_Open,1184 GV18 Fail To Fully Open
+,Bool,GV18_Closed_Switch,BL:$(xx)$(yy):GV18_CLOSED_SWITCH,GV18.Fault.Closed_Switch,1185 GV18 Closed Switch
+,Bool,GV18_Fail_to_Close,BL:$(xx)$(yy):GV18_FAIL_TO_CLOSE,GV18.Fault.Fail_to_Close,1186 GV18 Fail to Close
+,Bool,GV18_Fully_Close,BL:$(xx)$(yy):GV18_FULLY_CLOSE,GV18.Fault.Fully_Close,1187 GV18 Fail To Fully Close
+,Bool,GV18_Beam_Exposure,BL:$(xx)$(yy):GV18_BEAM_EXPOSURE,GV18.Fault.Beam_Exposure,1188 GV18 Beam Exposure
+,Bool,GV18_No_Switch,BL:$(xx)$(yy):GV18_NO_SWITCH,GV18.Fault.No_Switch,1189 GV18 No Switch
+,Bool,GV19_Faulted,BL:$(xx)$(yy):GV19_FAULTED,GV19.Faulted,GV19_Faulted
+,Bool,GV19_Both_Switch,BL:$(xx)$(yy):GV19_BOTH_SWITCH,GV19.Fault.Both_Switch,1191 GV19 Both Switch
+,Bool,GV19_Opened_Switch,BL:$(xx)$(yy):GV19_OPENED_SWITCH,GV19.Fault.Opened_Switch,1192 GV19 Opened Switch
+,Bool,GV19_Fail_to_Open,BL:$(xx)$(yy):GV19_FAIL_TO_OPEN,GV19.Fault.Fail_to_Open,1193 GV19 Fail to Open
+,Bool,GV19_Fully_Open,BL:$(xx)$(yy):GV19_FULLY_OPEN,GV19.Fault.Fully_Open,1194 GV19 Fail To Fully Open
+,Bool,GV19_Closed_Switch,BL:$(xx)$(yy):GV19_CLOSED_SWITCH,GV19.Fault.Closed_Switch,1195 GV19 Closed Switch
+,Bool,GV19_Fail_to_Close,BL:$(xx)$(yy):GV19_FAIL_TO_CLOSE,GV19.Fault.Fail_to_Close,1196 GV19 Fail to Close
+,Bool,GV19_Fully_Close,BL:$(xx)$(yy):GV19_FULLY_CLOSE,GV19.Fault.Fully_Close,1197 GV19 Fail To Fully Close
+,Bool,GV19_Beam_Exposure,BL:$(xx)$(yy):GV19_BEAM_EXPOSURE,GV19.Fault.Beam_Exposure,1198 GV19 Beam Exposure
+,Bool,GV19_No_Switch,BL:$(xx)$(yy):GV19_NO_SWITCH,GV19.Fault.No_Switch,1199 GV19 No Switch
+,Bool,GV20_Faulted,BL:$(xx)$(yy):GV20_FAULTED,GV20.Faulted,GV20_Faulted
+,Bool,GV20_Both_Switch,BL:$(xx)$(yy):GV20_BOTH_SWITCH,GV20.Fault.Both_Switch,1201 GV20 Both Switch
+,Bool,GV20_Opened_Switch,BL:$(xx)$(yy):GV20_OPENED_SWITCH,GV20.Fault.Opened_Switch,1202 GV20 Opened Switch
+,Bool,GV20_Fail_to_Open,BL:$(xx)$(yy):GV20_FAIL_TO_OPEN,GV20.Fault.Fail_to_Open,1203 GV20 Fail to Open
+,Bool,GV20_Fully_Open,BL:$(xx)$(yy):GV20_FULLY_OPEN,GV20.Fault.Fully_Open,1204 GV20 Fail To Fully Open
+,Bool,GV20_Closed_Switch,BL:$(xx)$(yy):GV20_CLOSED_SWITCH,GV20.Fault.Closed_Switch,1205 GV20 Closed Switch
+,Bool,GV20_Fail_to_Close,BL:$(xx)$(yy):GV20_FAIL_TO_CLOSE,GV20.Fault.Fail_to_Close,1206 GV20 Fail to Close
+,Bool,GV20_Fully_Close,BL:$(xx)$(yy):GV20_FULLY_CLOSE,GV20.Fault.Fully_Close,1207 GV20 Fail To Fully Close
+,Bool,GV20_Beam_Exposure,BL:$(xx)$(yy):GV20_BEAM_EXPOSURE,GV20.Fault.Beam_Exposure,1208 GV20 Beam Exposure
+,Bool,GV20_No_Switch,BL:$(xx)$(yy):GV20_NO_SWITCH,GV20.Fault.No_Switch,1209 GV20 No Switch
+,Bool,GV21_Faulted,BL:$(xx)$(yy):GV21_FAULTED,GV21.Faulted,GV21_Faulted
+,Bool,GV21_Both_Switch,BL:$(xx)$(yy):GV21_BOTH_SWITCH,GV21.Fault.Both_Switch,1211 GV21 Both Switch
+,Bool,GV21_Opened_Switch,BL:$(xx)$(yy):GV21_OPENED_SWITCH,GV21.Fault.Opened_Switch,1212 GV21 Opened Switch
+,Bool,GV21_Fail_to_Open,BL:$(xx)$(yy):GV21_FAIL_TO_OPEN,GV21.Fault.Fail_to_Open,1213 GV21 Fail to Open
+,Bool,GV21_Fully_Open,BL:$(xx)$(yy):GV21_FULLY_OPEN,GV21.Fault.Fully_Open,1214 GV21 Fail To Fully Open
+,Bool,GV21_Closed_Switch,BL:$(xx)$(yy):GV21_CLOSED_SWITCH,GV21.Fault.Closed_Switch,1215 GV21 Closed Switch
+,Bool,GV21_Fail_to_Close,BL:$(xx)$(yy):GV21_FAIL_TO_CLOSE,GV21.Fault.Fail_to_Close,1216 GV21 Fail to Close
+,Bool,GV21_Fully_Close,BL:$(xx)$(yy):GV21_FULLY_CLOSE,GV21.Fault.Fully_Close,1217 GV21 Fail To Fully Close
+,Bool,GV21_Beam_Exposure,BL:$(xx)$(yy):GV21_BEAM_EXPOSURE,GV21.Fault.Beam_Exposure,1218 GV21 Beam Exposure
+,Bool,GV21_No_Switch,BL:$(xx)$(yy):GV21_NO_SWITCH,GV21.Fault.No_Switch,1219 GV21 No Switch
+,Bool,GV22_Faulted,BL:$(xx)$(yy):GV22_FAULTED,GV22.Faulted,GV22_Faulted
+,Bool,GV22_Both_Switch,BL:$(xx)$(yy):GV22_BOTH_SWITCH,GV22.Fault.Both_Switch,1221 GV22 Both Switch
+,Bool,GV22_Opened_Switch,BL:$(xx)$(yy):GV22_OPENED_SWITCH,GV22.Fault.Opened_Switch,1222 GV22 Opened Switch
+,Bool,GV22_Fail_to_Open,BL:$(xx)$(yy):GV22_FAIL_TO_OPEN,GV22.Fault.Fail_to_Open,1223 GV22 Fail to Open
+,Bool,GV22_Fully_Open,BL:$(xx)$(yy):GV22_FULLY_OPEN,GV22.Fault.Fully_Open,1224 GV22 Fail To Fully Open
+,Bool,GV22_Closed_Switch,BL:$(xx)$(yy):GV22_CLOSED_SWITCH,GV22.Fault.Closed_Switch,1225 GV22 Closed Switch
+,Bool,GV22_Fail_to_Close,BL:$(xx)$(yy):GV22_FAIL_TO_CLOSE,GV22.Fault.Fail_to_Close,1226 GV22 Fail to Close
+,Bool,GV22_Fully_Close,BL:$(xx)$(yy):GV22_FULLY_CLOSE,GV22.Fault.Fully_Close,1227 GV22 Fail To Fully Close
+,Bool,GV22_Beam_Exposure,BL:$(xx)$(yy):GV22_BEAM_EXPOSURE,GV22.Fault.Beam_Exposure,1228 GV22 Beam Exposure
+,Bool,GV22_No_Switch,BL:$(xx)$(yy):GV22_NO_SWITCH,GV22.Fault.No_Switch,1229 GV22 No Switch
+,Bool,GV23_Faulted,BL:$(xx)$(yy):GV23_FAULTED,GV23.Faulted,GV23_Faulted
+,Bool,GV23_Both_Switch,BL:$(xx)$(yy):GV23_BOTH_SWITCH,GV23.Fault.Both_Switch,1231 GV23 Both Switch
+,Bool,GV23_Opened_Switch,BL:$(xx)$(yy):GV23_OPENED_SWITCH,GV23.Fault.Opened_Switch,1232 GV23 Opened Switch
+,Bool,GV23_Fail_to_Open,BL:$(xx)$(yy):GV23_FAIL_TO_OPEN,GV23.Fault.Fail_to_Open,1233 GV23 Fail to Open
+,Bool,GV23_Fully_Open,BL:$(xx)$(yy):GV23_FULLY_OPEN,GV23.Fault.Fully_Open,1234 GV23 Fail To Fully Open
+,Bool,GV23_Closed_Switch,BL:$(xx)$(yy):GV23_CLOSED_SWITCH,GV23.Fault.Closed_Switch,1235 GV23 Closed Switch
+,Bool,GV23_Fail_to_Close,BL:$(xx)$(yy):GV23_FAIL_TO_CLOSE,GV23.Fault.Fail_to_Close,1236 GV23 Fail to Close
+,Bool,GV23_Fully_Close,BL:$(xx)$(yy):GV23_FULLY_CLOSE,GV23.Fault.Fully_Close,1237 GV23 Fail To Fully Close
+,Bool,GV23_Beam_Exposure,BL:$(xx)$(yy):GV23_BEAM_EXPOSURE,GV23.Fault.Beam_Exposure,1238 GV23 Beam Exposure
+,Bool,GV23_No_Switch,BL:$(xx)$(yy):GV23_NO_SWITCH,GV23.Fault.No_Switch,1239 GV23 No Switch
+,Bool,GV24_Faulted,BL:$(xx)$(yy):GV24_FAULTED,GV24.Faulted,GV24_Faulted
+,Bool,GV24_Both_Switch,BL:$(xx)$(yy):GV24_BOTH_SWITCH,GV24.Fault.Both_Switch,1241 GV24 Both Switch
+,Bool,GV24_Opened_Switch,BL:$(xx)$(yy):GV24_OPENED_SWITCH,GV24.Fault.Opened_Switch,1242 GV24 Opened Switch
+,Bool,GV24_Fail_to_Open,BL:$(xx)$(yy):GV24_FAIL_TO_OPEN,GV24.Fault.Fail_to_Open,1243 GV24 Fail to Open
+,Bool,GV24_Fully_Open,BL:$(xx)$(yy):GV24_FULLY_OPEN,GV24.Fault.Fully_Open,1244 GV24 Fail To Fully Open
+,Bool,GV24_Closed_Switch,BL:$(xx)$(yy):GV24_CLOSED_SWITCH,GV24.Fault.Closed_Switch,1245 GV24 Closed Switch
+,Bool,GV24_Fail_to_Close,BL:$(xx)$(yy):GV24_FAIL_TO_CLOSE,GV24.Fault.Fail_to_Close,1246 GV24 Fail to Close
+,Bool,GV24_Fully_Close,BL:$(xx)$(yy):GV24_FULLY_CLOSE,GV24.Fault.Fully_Close,1247 GV24 Fail To Fully Close
+,Bool,GV24_Beam_Exposure,BL:$(xx)$(yy):GV24_BEAM_EXPOSURE,GV24.Fault.Beam_Exposure,1248 GV24 Beam Exposure
+,Bool,GV24_No_Switch,BL:$(xx)$(yy):GV24_NO_SWITCH,GV24.Fault.No_Switch,1249 GV24 No Switch
+,Bool,GV25_Faulted,BL:$(xx)$(yy):GV25_FAULTED,GV25.Faulted,GV25_Faulted
+,Bool,GV25_Both_Switch,BL:$(xx)$(yy):GV25_BOTH_SWITCH,GV25.Fault.Both_Switch,1251 GV25 Both Switch
+,Bool,GV25_Opened_Switch,BL:$(xx)$(yy):GV25_OPENED_SWITCH,GV25.Fault.Opened_Switch,1252 GV25 Opened Switch
+,Bool,GV25_Fail_to_Open,BL:$(xx)$(yy):GV25_FAIL_TO_OPEN,GV25.Fault.Fail_to_Open,1253 GV25 Fail to Open
+,Bool,GV25_Fully_Open,BL:$(xx)$(yy):GV25_FULLY_OPEN,GV25.Fault.Fully_Open,1254 GV25 Fail To Fully Open
+,Bool,GV25_Closed_Switch,BL:$(xx)$(yy):GV25_CLOSED_SWITCH,GV25.Fault.Closed_Switch,1255 GV25 Closed Switch
+,Bool,GV25_Fail_to_Close,BL:$(xx)$(yy):GV25_FAIL_TO_CLOSE,GV25.Fault.Fail_to_Close,1256 GV25 Fail to Close
+,Bool,GV25_Fully_Close,BL:$(xx)$(yy):GV25_FULLY_CLOSE,GV25.Fault.Fully_Close,1257 GV25 Fail To Fully Close
+,Bool,GV25_Beam_Exposure,BL:$(xx)$(yy):GV25_BEAM_EXPOSURE,GV25.Fault.Beam_Exposure,1258 GV25 Beam Exposure
+,Bool,GV25_No_Switch,BL:$(xx)$(yy):GV25_NO_SWITCH,GV25.Fault.No_Switch,1259 GV25 No Switch
+,Bool,GV26_Faulted,BL:$(xx)$(yy):GV26_FAULTED,GV26.Faulted,GV26_Faulted
+,Bool,GV26_Both_Switch,BL:$(xx)$(yy):GV26_BOTH_SWITCH,GV26.Fault.Both_Switch,1261 GV26 Both Switch
+,Bool,GV26_Opened_Switch,BL:$(xx)$(yy):GV26_OPENED_SWITCH,GV26.Fault.Opened_Switch,1262 GV26 Opened Switch
+,Bool,GV26_Fail_to_Open,BL:$(xx)$(yy):GV26_FAIL_TO_OPEN,GV26.Fault.Fail_to_Open,1263 GV26 Fail to Open
+,Bool,GV26_Fully_Open,BL:$(xx)$(yy):GV26_FULLY_OPEN,GV26.Fault.Fully_Open,1264 GV26 Fail To Fully Open
+,Bool,GV26_Closed_Switch,BL:$(xx)$(yy):GV26_CLOSED_SWITCH,GV26.Fault.Closed_Switch,1265 GV26 Closed Switch
+,Bool,GV26_Fail_to_Close,BL:$(xx)$(yy):GV26_FAIL_TO_CLOSE,GV26.Fault.Fail_to_Close,1266 GV26 Fail to Close
+,Bool,GV26_Fully_Close,BL:$(xx)$(yy):GV26_FULLY_CLOSE,GV26.Fault.Fully_Close,1267 GV26 Fail To Fully Close
+,Bool,GV26_Beam_Exposure,BL:$(xx)$(yy):GV26_BEAM_EXPOSURE,GV26.Fault.Beam_Exposure,1268 GV26 Beam Exposure
+,Bool,GV26_No_Switch,BL:$(xx)$(yy):GV26_NO_SWITCH,GV26.Fault.No_Switch,1269 GV26 No Switch
+,Bool,GV27_Faulted,BL:$(xx)$(yy):GV27_FAULTED,GV27.Faulted,GV27_Faulted
+,Bool,GV27_Both_Switch,BL:$(xx)$(yy):GV27_BOTH_SWITCH,GV27.Fault.Both_Switch,1271 GV27 Both Switch
+,Bool,GV27_Opened_Switch,BL:$(xx)$(yy):GV27_OPENED_SWITCH,GV27.Fault.Opened_Switch,1272 GV27 Opened Switch
+,Bool,GV27_Fail_to_Open,BL:$(xx)$(yy):GV27_FAIL_TO_OPEN,GV27.Fault.Fail_to_Open,1273 GV27 Fail to Open
+,Bool,GV27_Fully_Open,BL:$(xx)$(yy):GV27_FULLY_OPEN,GV27.Fault.Fully_Open,1274 GV27 Fail To Fully Open
+,Bool,GV27_Closed_Switch,BL:$(xx)$(yy):GV27_CLOSED_SWITCH,GV27.Fault.Closed_Switch,1275 GV27 Closed Switch
+,Bool,GV27_Fail_to_Close,BL:$(xx)$(yy):GV27_FAIL_TO_CLOSE,GV27.Fault.Fail_to_Close,1276 GV27 Fail to Close
+,Bool,GV27_Fully_Close,BL:$(xx)$(yy):GV27_FULLY_CLOSE,GV27.Fault.Fully_Close,1277 GV27 Fail To Fully Close
+,Bool,GV27_Beam_Exposure,BL:$(xx)$(yy):GV27_BEAM_EXPOSURE,GV27.Fault.Beam_Exposure,1278 GV27 Beam Exposure
+,Bool,GV27_No_Switch,BL:$(xx)$(yy):GV27_NO_SWITCH,GV27.Fault.No_Switch,1279 GV27 No Switch
+,Bool,GV28_Faulted,BL:$(xx)$(yy):GV28_FAULTED,GV28.Faulted,GV28_Faulted
+,Bool,GV28_Both_Switch,BL:$(xx)$(yy):GV28_BOTH_SWITCH,GV28.Fault.Both_Switch,1281 GV28 Both Switch
+,Bool,GV28_Opened_Switch,BL:$(xx)$(yy):GV28_OPENED_SWITCH,GV28.Fault.Opened_Switch,1282 GV28 Opened Switch
+,Bool,GV28_Fail_to_Open,BL:$(xx)$(yy):GV28_FAIL_TO_OPEN,GV28.Fault.Fail_to_Open,1283 GV28 Fail to Open
+,Bool,GV28_Fully_Open,BL:$(xx)$(yy):GV28_FULLY_OPEN,GV28.Fault.Fully_Open,1284 GV28 Fail To Fully Open
+,Bool,GV28_Closed_Switch,BL:$(xx)$(yy):GV28_CLOSED_SWITCH,GV28.Fault.Closed_Switch,1285 GV28 Closed Switch
+,Bool,GV28_Fail_to_Close,BL:$(xx)$(yy):GV28_FAIL_TO_CLOSE,GV28.Fault.Fail_to_Close,1286 GV28 Fail to Close
+,Bool,GV28_Fully_Close,BL:$(xx)$(yy):GV28_FULLY_CLOSE,GV28.Fault.Fully_Close,1287 GV28 Fail To Fully Close
+,Bool,GV28_Beam_Exposure,BL:$(xx)$(yy):GV28_BEAM_EXPOSURE,GV28.Fault.Beam_Exposure,1288 GV28 Beam Exposure
+,Bool,GV28_No_Switch,BL:$(xx)$(yy):GV28_NO_SWITCH,GV28.Fault.No_Switch,1289 GV28 No Switch
+,Bool,GV29_Faulted,BL:$(xx)$(yy):GV29_FAULTED,GV29.Faulted,GV29_Faulted
+,Bool,GV29_Both_Switch,BL:$(xx)$(yy):GV29_BOTH_SWITCH,GV29.Fault.Both_Switch,1291 GV29 Both Switch
+,Bool,GV29_Opened_Switch,BL:$(xx)$(yy):GV29_OPENED_SWITCH,GV29.Fault.Opened_Switch,1292 GV29 Opened Switch
+,Bool,GV29_Fail_to_Open,BL:$(xx)$(yy):GV29_FAIL_TO_OPEN,GV29.Fault.Fail_to_Open,1293 GV29 Fail to Open
+,Bool,GV29_Fully_Open,BL:$(xx)$(yy):GV29_FULLY_OPEN,GV29.Fault.Fully_Open,1294 GV29 Fail To Fully Open
+,Bool,GV29_Closed_Switch,BL:$(xx)$(yy):GV29_CLOSED_SWITCH,GV29.Fault.Closed_Switch,1295 GV29 Closed Switch
+,Bool,GV29_Fail_to_Close,BL:$(xx)$(yy):GV29_FAIL_TO_CLOSE,GV29.Fault.Fail_to_Close,1296 GV29 Fail to Close
+,Bool,GV29_Fully_Close,BL:$(xx)$(yy):GV29_FULLY_CLOSE,GV29.Fault.Fully_Close,1297 GV29 Fail To Fully Close
+,Bool,GV29_Beam_Exposure,BL:$(xx)$(yy):GV29_BEAM_EXPOSURE,GV29.Fault.Beam_Exposure,1298 GV29 Beam Exposure
+,Bool,GV29_No_Switch,BL:$(xx)$(yy):GV29_NO_SWITCH,GV29.Fault.No_Switch,1299 GV29 No Switch
+,Bool,GV30_Faulted,BL:$(xx)$(yy):GV30_FAULTED,GV30.Faulted,GV30_Faulted
+,Bool,GV30_Both_Switch,BL:$(xx)$(yy):GV30_BOTH_SWITCH,GV30.Fault.Both_Switch,1301 GV30 Both Switch
+,Bool,GV30_Opened_Switch,BL:$(xx)$(yy):GV30_OPENED_SWITCH,GV30.Fault.Opened_Switch,1302 GV30 Opened Switch
+,Bool,GV30_Fail_to_Open,BL:$(xx)$(yy):GV30_FAIL_TO_OPEN,GV30.Fault.Fail_to_Open,1303 GV30 Fail to Open
+,Bool,GV30_Fully_Open,BL:$(xx)$(yy):GV30_FULLY_OPEN,GV30.Fault.Fully_Open,1304 GV30 Fail To Fully Open
+,Bool,GV30_Closed_Switch,BL:$(xx)$(yy):GV30_CLOSED_SWITCH,GV30.Fault.Closed_Switch,1305 GV30 Closed Switch
+,Bool,GV30_Fail_to_Close,BL:$(xx)$(yy):GV30_FAIL_TO_CLOSE,GV30.Fault.Fail_to_Close,1306 GV30 Fail to Close
+,Bool,GV30_Fully_Close,BL:$(xx)$(yy):GV30_FULLY_CLOSE,GV30.Fault.Fully_Close,1307 GV30 Fail To Fully Close
+,Bool,GV30_Beam_Exposure,BL:$(xx)$(yy):GV30_BEAM_EXPOSURE,GV30.Fault.Beam_Exposure,1308 GV30 Beam Exposure
+,Bool,GV30_No_Switch,BL:$(xx)$(yy):GV30_NO_SWITCH,GV30.Fault.No_Switch,1309 GV30 No Switch
